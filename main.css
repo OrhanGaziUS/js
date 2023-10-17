@@ -1,0 +1,58 @@
+@font-face {
+  font-family: Verdana;
+  src: url(/fonts/verdana-bold.ttf);
+}
+.maindiv {
+  background-color: 1B244A;
+  width: 575px;
+  height: 385px;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+h1 {
+  color: EEEEEE;
+  font-weight: 40px;
+  font-family: Verdana;
+  text-align: center;
+}
+.iki {
+  width: 155px;
+  height: 120px;
+  background-color: black;
+  margin-bottom: 26px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.skor {
+  font-family: "Cursed Timer ULiL", sans-serif;
+  color: #f94f6d;
+  font-size: 90px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 120px;
+  width: 117px;
+}
+.uc {
+  width: 155px;
+  height: 45px;
+}
+.uc {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  font-family: "Cursed Timer ULiL", sans-serif;
+  border: 2px solid #9aabd8;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45px;
+  height: 45px;
+  color: 9aabd8;
+}
